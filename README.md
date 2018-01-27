@@ -1,2 +1,2 @@
 Learning/practice jQuery - Week 3 Assignment
-Using traversing methods
+Traversing and determine use of event.stopPropagation()
